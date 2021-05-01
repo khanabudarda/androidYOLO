@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Yolo</string>
+    <string name="camera_error">Could not access Camera</string>
+</resources>
